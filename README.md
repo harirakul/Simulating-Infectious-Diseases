@@ -7,6 +7,7 @@
 :grinning: = Susceptible
 :nauseated_face: = Infected
 :sunglasses: = Recovered
+
 ![recordinggif](https://user-images.githubusercontent.com/58019082/83311311-ac527080-a1c3-11ea-85b2-b92588be121d.gif)
 
 ## SIR Model:
